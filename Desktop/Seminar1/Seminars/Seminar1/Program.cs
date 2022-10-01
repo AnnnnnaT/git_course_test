@@ -46,7 +46,7 @@ current++;
 //Задача 3. Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает последнюю цифру этого числа
  Console.Write("Input three-digit number: ");
  int n= Convert.ToInt32 (Console.ReadLine());
-
+ int = {lastDigit = n % 10};
  if (n>=100 && n < 1000)
  {
 
