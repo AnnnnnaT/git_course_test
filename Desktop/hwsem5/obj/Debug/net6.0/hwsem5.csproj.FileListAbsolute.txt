@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\hwsem5\bin\Debug\net6.0\hwsem5.exe
+C:\Users\User\Desktop\hwsem5\bin\Debug\net6.0\hwsem5.deps.json
+C:\Users\User\Desktop\hwsem5\bin\Debug\net6.0\hwsem5.runtimeconfig.json
+C:\Users\User\Desktop\hwsem5\bin\Debug\net6.0\hwsem5.dll
+C:\Users\User\Desktop\hwsem5\bin\Debug\net6.0\hwsem5.pdb
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.AssemblyInfo.cs
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.dll
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\refint\hwsem5.dll
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.pdb
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\hwsem5.genruntimeconfig.cache
+C:\Users\User\Desktop\hwsem5\obj\Debug\net6.0\ref\hwsem5.dll

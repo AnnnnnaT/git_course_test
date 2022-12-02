@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.AssemblyInfo.cs
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Seinar2\bin\Debug\net6.0\Seinar2.exe
+C:\Users\User\Desktop\Seinar2\bin\Debug\net6.0\Seinar2.deps.json
+C:\Users\User\Desktop\Seinar2\bin\Debug\net6.0\Seinar2.runtimeconfig.json
+C:\Users\User\Desktop\Seinar2\bin\Debug\net6.0\Seinar2.dll
+C:\Users\User\Desktop\Seinar2\bin\Debug\net6.0\Seinar2.pdb
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.dll
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\refint\Seinar2.dll
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.pdb
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\Seinar2.genruntimeconfig.cache
+C:\Users\User\Desktop\Seinar2\obj\Debug\net6.0\ref\Seinar2.dll
